@@ -1,6 +1,5 @@
 SpringTrader getting started guide is available under github wiki
 
-Adding this line to trigger a build from commit
 ==============================================================
 
 * See [Application Overview](https://github.com/vFabric/springtrader/wiki/Application-Overview)

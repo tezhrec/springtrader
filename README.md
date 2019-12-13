@@ -1,6 +1,4 @@
 SpringTrader getting started guide is available under github wiki
-
-push
 ==============================================================
 
 * See [Application Overview](https://github.com/vFabric/springtrader/wiki/Application-Overview)
